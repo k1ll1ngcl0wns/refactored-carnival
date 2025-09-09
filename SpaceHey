@@ -1,3 +1,11 @@
 <style> 
 body:before {
-content "https://i.postimg.cc/k4QNHVB6/88461-d72d26ea8b3aba8569c0a49978a91b24.jpg";
+content " ";
+<style>
+body{
+background-image: url("https://i.postimg.cc/k4QNHVB6/88461-d72d26ea8b3aba8569c0a49978a91b24.jpg");
+background-repate: no-repeat;
+background-attchment: fixed;
+background-size: cover;
+}
+<style>
